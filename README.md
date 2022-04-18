@@ -16,9 +16,9 @@ The data has been split into two groups:
 
 <table>
   <tr>
-    <td>Variable</td>
-    <td>Definition</td>
-    <td>Key</td>
+    <td><b>Variable</b></td>
+    <td><b>Definition</b></td>
+    <td><b>Key</b></td>
   </tr>
   <tr>
     <td>survival</td>
@@ -73,7 +73,7 @@ The data has been split into two groups:
   <li>2nd = Middle</li>
   <li>3rd = Lower</li>
 </ol>
-<b>age</b>: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+<b>age</b>: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5 <br>
 
 <b>sibsp</b>: The dataset defines family relations in this way...
 <ol type='a'>
