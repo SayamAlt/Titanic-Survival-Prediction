@@ -1,5 +1,8 @@
 # Titanic-Survival-Prediction
 
+![Titanic Survival Prediction](https://miro.medium.com/max/1200/1*VqAjw0QcBo13t9ISpRjGMw.png)
+![Titanic Survival Prediction](https://i.ytimg.com/vi/fATVVQfFyU0/maxresdefault.jpg)
+
 ## Overview
 
 The data has been split into two groups:
